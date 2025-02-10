@@ -1,0 +1,278 @@
+#bye{
+    height: 916.71px;
+    width: 967.2px;
+    padding: 0px 0px 32px;
+    display: inline-block;
+  background-color: #000000 ;
+     align-items: center;
+     justify-content: center;
+  
+ }
+ body{
+    font-family: SpotifyMixUI, CircularSp-Arab, CircularSp-Hebr,
+CircularSp-Cyrl, CircularSp-Grek, CircularSp-Deva,
+var(--fallback-fonts, sans-serif);
+     display: flex;
+     padding-left: 32px;
+     padding-bottom: 32px;
+     padding-top: 32px;
+     padding-right: 32px;
+     flex-shrink: 1;
+     flex-grow: 3;
+     background-color:#121212;
+     justify-content: center;
+ }
+ #loginpage{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 76px;
+     width: 734px;
+ }
+ #login{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 68px;
+     width: 734px;
+     color: #fff;
+     margin: 0;
+ }
+ #Google{
+     display: flex;
+     width: 650px;
+     align-items: center;
+     justify-content: center;
+     color: #ffffffE6;
+     font-size: 16PX;
+     margin: 5px 37.2px;
+ }
+ #images{
+     bottom: -25px;
+     gap: 10px;
+     width: 350px;
+     position: relative;
+     left: 150px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 0px 0px 8px;
+     padding: 7px 31px;
+     border:  1px solid;
+     border-color: rgba(255, 255, 255, 0.349);
+     border-radius: 30px;
+   
+ }
+ #gogimg{
+     position: relative;
+     left: 10px;
+     align-items: center;
+     justify-content: center;
+ }
+ #FACEBOOK{
+     display: flex;
+     width: 650px;
+     align-items: center;
+     justify-content: center;
+     color: #ffffffE6;
+     font-size: 16PX;
+     margin: 5px 37.2px;;
+ }
+ #faceimg{
+     position: relative;
+     left: 10px;
+     align-items: center;
+     justify-content: center;
+ }
+ #img{
+     bottom: -25px;
+     gap: 10px;
+     width: 350px;
+     position: relative;
+     left: 150px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 0px 0px 8px;
+     padding: 7px 31px;
+     border: 1px solid;
+     border-color: rgba(255, 255, 255, 0.349);
+     border-radius: 30px
+ }
+ #appim{
+     bottom: -25px;
+     gap: 10px;
+     width: 350px;
+     position: relative;
+     left: 150px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 0px 0px 8px;
+     padding: 7px 31px;
+     border: 1px solid;
+     border-color:  rgba(255, 255, 255, 0.349);
+     border-radius: 30px;
+ }
+ #appleimg{
+     position: relative;
+     left: 10px;
+     align-items: center;
+     justify-content: center;
+ }
+ #APPLE{
+     display: flex;
+     width: 650px;
+     align-items: center;
+     justify-content: center;
+     color: #ffffffE6;
+     font-size: 16PX;
+     margin: 5px 37.2px;
+ }
+ #number{
+     bottom: -25px;
+     gap: 10px;
+     width: 350px;
+     position: relative;
+     left: 150px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 0px 0px 8px;
+     padding: 7px 31px;
+     border: 1px solid;
+     border-color:  rgba(255, 255, 255, 0.349);
+     border-radius: 30px
+ }
+ #phone{
+     display: flex;
+     width: 650px;
+     align-items: center;
+     justify-content: center;
+     color: #ffffffE6;
+     font-size: 16PX;
+     margin: 5px 37.2px;;
+ }
+ #hi{
+     width: 700px;
+    background-color: rgba(128, 128, 128, 0.275);
+     position: relative;
+     top: 50px;
+     right: 60px;
+     border-bottom: 200px;
+     z-index: -0;
+ }
+ #box{
+     bottom: -25px;
+     gap: 10px;
+     width: 400px;
+     height: 28px;
+     position: relative;
+     top: 100px;
+     left: 150px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 0px 0px 8px;
+     padding:12px;
+     border: 1px solid;
+     border-color:  rgba(255, 255, 255, 0.349);
+     border-radius: 5px;
+ }
+ .hello{
+     position: relative;
+     top: 10px;
+     gap: 15px;
+     height: 27.2px;
+     width: 400px;
+     color: gray;
+ }
+ #a{
+     position: relative;
+     height: 19.2px;    
+     top: 110px;
+     left: 158px;
+     color: #fff;
+ }
+ #pass{
+     position: relative;
+     height: 19.2px;    
+     top: 105px;
+     left: 158px;
+     color: #fff;
+ }
+ #loginbut{
+     position: relative;
+     top: 114px;
+     left: 150px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 48px;
+     width: 425px;
+     background-color: #1ED760;
+     border-radius: 30px;
+ }
+ #h{
+     font-size: 16px;
+ }
+ #w{
+     height: 22.4px;
+     width: 166.54px;
+     margin: 16px 0px;
+     position: relative;
+     top: 135px;
+     left: 275px;
+     color: #FFFFFF;
+     display: inline;
+ }
+
+ #q{
+     color: gray;
+ }
+ #e{
+     color: #FFFFFF;
+ }
+ .y{
+     position: relative;
+     top: 200px;
+     right: 50px;
+     display: inline;
+ }
+ #p{
+     color: #b3b3b3;
+     height: 80.8px;
+     width: 967.2px;
+     position: relative;
+     top:400px;
+    left: 50px;
+     padding: 32px;
+     font-size: 12px;
+ }
+ #u{
+     margin-left: 100px;
+ }
+ @media (min-width:1201px)and (max-width:1600px) {
+     body{display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+ }
+ @media (min-width:319px)and(max-width:480px) {
+     body{display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+     #j{
+         display: inline;
+     }
+ }
+ @media (min-width:1601px) {
+     body{display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+     .y{
+         display: inline;
+     }
+    }
